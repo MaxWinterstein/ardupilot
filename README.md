@@ -1,3 +1,9 @@
+# ATTENTION
+# THIS IS A SPECIAL VERSION
+# WITH CHANNEL 6 AND CHANNEL 8 SWITCHED
+# ATTENTION
+
+
 # ArduPilot Project
 
 You can find lots of development information at the [ArduPilot development site](http://dev.ardupilot.com)

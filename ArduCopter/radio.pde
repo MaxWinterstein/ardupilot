@@ -116,9 +116,9 @@ static void read_radio()
 
         g.rc_4.set_pwm(periods[rcmap.yaw()-1]);
         g.rc_5.set_pwm(periods[4]);
-        g.rc_6.set_pwm(periods[5]);
+        g.rc_6.set_pwm(periods[7]);
         g.rc_7.set_pwm(periods[6]);
-        g.rc_8.set_pwm(periods[7]);
+        g.rc_8.set_pwm(periods[5]);
 
         // read channels 9 ~ 14
         for (uint8_t i=8; i<RC_MAX_CHANNELS; i++) {
